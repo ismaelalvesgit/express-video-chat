@@ -38,10 +38,6 @@ npm run dev
 # verificar a url http://localhost:3000 ou http://localhost:${customPort}
 ```
 
-#### 3) Uso
-Faça 2 request na rota http://localhost:3000 ou http://localhost:${customPort} e verifique o seu 
-console de execuçãoS
-
 ## Contato
 Desenvolvido por: [Ismael Alves](https://github.com/ismaelalvesgit)
 
